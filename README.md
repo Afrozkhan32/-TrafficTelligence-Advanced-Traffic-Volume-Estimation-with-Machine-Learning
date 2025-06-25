@@ -136,7 +136,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 👥 Contributors
 
-* Afroz Khan (Developer, Data Analyst)
+* Patan Afroz Khan (Data Scientist / ML)
 * SmartBridge (Mentorship/Platform)
 
 ---
