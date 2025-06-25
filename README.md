@@ -119,18 +119,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### Running the Notebook
 
-1. Clone the repo:
+## Demo Video:
+https://drive.google.com/file/d/1LGR9F0E9AW-5AiwWfh4uVEPm7yZilipm/view?usp=drive_link
 
-   ```bash
-   git clone https://github.com/YourUsername/TrafficTelligence-Traffic-Volume-Estimation.git
-   cd TrafficTelligence-Traffic-Volume-Estimation
-   ```
 
-2. Open the notebook:
-
-   ```bash
-   jupyter notebook "TrafficTelligence Advanced Traffic Volume Estimation with Machine Learning.ipynb"
-   ```
 
 ---
 
