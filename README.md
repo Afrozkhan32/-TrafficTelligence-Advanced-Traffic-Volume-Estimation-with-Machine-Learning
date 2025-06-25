@@ -80,7 +80,7 @@ To build and evaluate machine learning models that can accurately estimate traff
 | ----------------------- | -------- |
 | Linear Regression       | \~0.36   |
 | Decision Tree Regressor | \~0.65   |
-| Random Forest Regressor | \~0.84   |
+| Random Forest Regressor | \~0.97  |
 
 * **Random Forest** performed the best with high accuracy and low error.
 
